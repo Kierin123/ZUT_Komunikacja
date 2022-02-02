@@ -1,0 +1,3 @@
+/home/kierin/Documents/Repozytoria/KomunikacjaMiedzyprocesowa/Program_5/build/CMakeFiles/rebuild_cache.dir
+/home/kierin/Documents/Repozytoria/KomunikacjaMiedzyprocesowa/Program_5/build/CMakeFiles/edit_cache.dir
+/home/kierin/Documents/Repozytoria/KomunikacjaMiedzyprocesowa/Program_5/build/CMakeFiles/lab1.dir

@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ CMakeFiles/lab1.dir/app/src/main.cpp.o CMakeFiles/lab1.dir/deps/src/log.c.o -o lab1  -lpthread 
